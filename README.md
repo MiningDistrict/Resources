@@ -8,7 +8,9 @@ coverY: 0
 
 ## Introduction
 
-> Mining District brings together long-term, community-driven investors who are interested in increasing their portfolio's exposure to cryptocurrencies while carefully managing the inherent risk associated with the asset class.&#x20;
+{% hint style="info" %}
+Mining District brings together long-term, community-driven investors who are interested in increasing their portfolio's exposure to cryptocurrencies while carefully managing the inherent risk associated with the asset class.&#x20;
+{% endhint %}
 
 ### Background
 

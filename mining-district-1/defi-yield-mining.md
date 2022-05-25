@@ -6,7 +6,7 @@ coverY: 0
 
 # DeFi Yield Mining
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
 {% endhint %}
 
