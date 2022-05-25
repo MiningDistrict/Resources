@@ -8,17 +8,22 @@ coverY: 0
 
 ## Introduction
 
-> Mining District
+> The Mining District platform brings together long-term, community-driven investors who are interested in increasing their portfolio's exposure to cryptocurrencies while carefully managing the inherent risk associated with the asset class.&#x20;
 
-```
+### Background
 
-
-
-
-
-```
+Over the past two years, the Mining District team has witnessed DeFi 1.0 yield-bearing platforms rise and fall, such as popular 'degen' farms in 2020 and NFT staking contracts in 2021 and 2022.&#x20;
 
 
+
+<img src=".gitbook/assets/image.png" alt="" data-size="original"> \
+
+
+
+
+
+
+More recently, the demise of certain algorithmic stable coins (Terra and Tomb) has demonstrated that there is much work to be done&#x20;
 
 
 
