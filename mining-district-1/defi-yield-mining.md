@@ -6,9 +6,7 @@ coverY: 0
 
 # DeFi Yield Mining
 
-{% hint style="success" %}
-**Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
-{% endhint %}
+Similarly to all strong communities in DeFi, District Mining strives to be much more than a casual observer of the space. We seek to lead by example, by contributing our own smart contracts designed for fun and profit.
 
 ## Esme DeWalt
 
