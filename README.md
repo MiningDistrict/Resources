@@ -16,7 +16,7 @@ Over the past three years, Mining District's team has witnessed DeFi yield-beari
 
 ![OHM's reckoning](https://i.ibb.co/y870xQV/Screenshot-2022-05-25-at-10-26-40.png)
 
-We are yet to witness a yield-bearing DeFi projecy stand the test of time. _Why is this?_ Simply put, 'yielding value' is a facade. Value cannot be created from nothing. The recent demise of Terra's algorithmic stable coin UST is further evidence of this claim. 20% annual yield from a 'stable coin' equated to Terra paying $7M per day in inflation costs, leaving them wide open for attack. The collapse of UST and Luna wiped out tens of billions of dollars from the DeFi space in a matter of hours.
+We are yet to witness a yield-bearing DeFi project stand the test of time. _Why is this?_ Simply put, 'yielding value' is a facade. Value cannot be created from nothing. The recent demise of Terra's algorithmic stable coin UST is further evidence of this claim. 20% annual yield from a 'stable coin' equated to Terra paying $7M per day in inflation costs, leaving them wide open for attack. The collapse of UST and Luna wiped out tens of billions of dollars from the DeFi space in a matter of hours.
 
 ### Fool me once, shame on you; fool me twice, shame on me
 
