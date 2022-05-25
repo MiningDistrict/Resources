@@ -32,5 +32,6 @@ Two months after this tweet was sent, Luna is almost worthless. GCR made over $1
 
 ## Alpha and FOMO
 
-In a space that unironically prides itself on its own degeneracy and volatility, it is easy to become blindsided by the fear of missing out and relative risk. Compared to many other tokens, UST's 20% annual yield could be interpreted as conservative. However, most tokens with a thousand-percentage-plus annual yield devalue within the first couple of days. Therefore the comparison is meaningless. UST's one dollar value could be interpreted as conservative with respect to many other tokens that are worth tens of thousands of dollars. However, UST's initial supply and inflationary properties made it a top-three cryptocurrency by market cap. Do you know of any reputable exchanges offering a 20% annual yield on Bitcoin and Ethereum? If not, why not?\
-\
+![Degeneracy works until it doesn't](https://yt3.ggpht.com/ytc/AKedOLS6w8dINEg1DoHSg2DBoCdjG3bWSu2-1bBhWLvk=s900-c-k-c0x00ffffff-no-rj)
+
+In a space that unironically prides itself on its own degeneracy and volatility, it is easy to become blindsided by the fear of missing out and relative risk. Compared to many other tokens, UST's 20% annual yield could be interpreted as conservative. However, most tokens with a thousand-percentage-plus annual yield devalue within the first couple of days. Therefore the comparison is meaningless. UST's one dollar value could be interpreted as conservative with respect to many other tokens that are worth tens of thousands of dollars. However, UST's initial supply and inflationary properties made it a top-three cryptocurrency by market cap. Do you know of any reputable exchanges offering a 20% annual yield on Bitcoin and Ethereum? If not, why not?
