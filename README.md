@@ -8,7 +8,7 @@ coverY: 0
 
 ## Introduction
 
-Mining District &#x20;
+> Mining District
 
 ```
 
