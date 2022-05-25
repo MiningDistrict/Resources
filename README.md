@@ -14,9 +14,9 @@ coverY: 0
 
 Over the past two years, the Mining District team has witnessed DeFi yield-bearing platforms rise and fall, such as popular 'degen' farms in 2020, OlympusDAO-style 'DeFi 2.0' projects in 2021, and most recently NFT whitelist marketplaces in 2022.&#x20;
 
-During times of peak euphoria, all of these yield-bearing products were extremely profitable:
+During times of peak euphoria, all of these yield-bearing products were extremely profitable. And yet at present, OHM is at a 98.5% drawdown of its all time high price point:
 
-<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
+![The rise and fall of OHM](https://i.ibb.co/y870xQV/Screenshot-2022-05-25-at-10-26-40.png)
 
 
 
