@@ -1,13 +1,16 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Mining District](README.md)
 
 ## Mining District
 
-* [Vision and Values](mining-district/vision-and-values.md)
-* [Meet the Team!](mining-district/meet-the-team.md)
+* [Community ](mining-district-1/community.md)
+* [DeFi Yield Mining](mining-district-1/defi-yield-mining.md)
+* [6:1 Method](mining-district-1/6-1-method.md)
+* [Improvements](mining-district-1/improvements.md)
+* [Macro Economics](mining-district-1/macro-economics.md)
 
-## The Formal Stuff
+## Timeline
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Bear Market](timeline/bear-market.md)
+* [First Mover Advantage](timeline/first-mover-advantage.md)

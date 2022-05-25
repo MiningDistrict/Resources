@@ -4,9 +4,9 @@ cover: >-
 coverY: 0
 ---
 
-# Intro
+# Mining District
 
-## Mining District
+## Introduction
 
 Mining District &#x20;
 

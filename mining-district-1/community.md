@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Vision and Values
+# Community&#x20;
 
 ## Our Vision
 
