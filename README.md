@@ -12,18 +12,19 @@ coverY: 0
 
 ### Background
 
-Over the past two years, the Mining District team has witnessed DeFi 1.0 yield-bearing platforms rise and fall, such as popular 'degen' farms in 2020 and NFT staking contracts in 2021 and 2022.&#x20;
+Over the past two years, the Mining District team has witnessed DeFi yield-bearing platforms rise and fall, such as popular 'degen' farms in 2020, OlympusDAO-style 'DeFi 2.0' projects in 2021, and most recently NFT whitelist marketplaces in 2022.&#x20;
+
+During times of peak euphoria, all of these yield-bearing products were extremely profitable:
+
+<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
 
 
 
-<img src=".gitbook/assets/image.png" alt="" data-size="original"> \
 
 
 
 
-
-
-More recently, the demise of certain algorithmic stable coins (Terra and Tomb) has demonstrated that there is much work to be done&#x20;
+The demise of algorithmic stable coins (Terra and Tomb) has demonstrated that there is much work to be done&#x20;
 
 
 
