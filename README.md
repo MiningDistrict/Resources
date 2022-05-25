@@ -30,7 +30,7 @@ In the tweet below, the infamous GCR calls out Do Kwon regarding UST's outlandis
 
 Two months after this tweet was sent, Luna is almost worthless. GCR made over $10M shorting Luna. Did any of his profits come out of your pocket? Were you buying the Luna dip again and again? _Why were so many investors caught off guard by UST?_ On reflection, it is straightforward to surmise that they bought into two false narratives: (1) an algorithmic stable coin pegged to the dollar will always be worth (approximately) one dollar; (2) yielding 20% annually is low risk. Both of these beliefs are false. Unfortunately for a lot of investors, by the time the truth came to light for them, their investments had already decreased in value by 95%.
 
-## FOMO vs Alpha
+### FOMO vs Alpha
 
 ![Degeneracy works until it doesn't](https://yt3.ggpht.com/ytc/AKedOLS6w8dINEg1DoHSg2DBoCdjG3bWSu2-1bBhWLvk=s900-c-k-c0x00ffffff-no-rj)
 
