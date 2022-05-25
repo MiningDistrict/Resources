@@ -20,7 +20,7 @@ During times of peak euphoria, all of these yield-bearing products were extremel
 
 We are yet to witness a yield-bearing DeFi product stand the test of time. _Why is this?_ Simply put, 'yielding value' is a facade. Value cannot be created from nothing. The recent demise of Terra's algorithmic stable coin UST is further evidence of this claim. 20% annual yield from a 'stable coin' equated to Terra paying $7MM per day in inflation costs, leaving them wide open for attack. The collapse of UST and Luna wiped out tens of billions of dollars from the DeFi space in a matter of hours.\
 \
-No investor buys a native farming token with the intention of losing money. Investors do not brandish themselves with game-theoretic snippets because they believe their investments are undercollateralized. Teenagers do not 'grind' for tens of hours at a time for the hottest NFT projects because they assume the project will rug pull.\
+No investor buys a native farming token with the intention of losing money. Investors do not brandish themselves with game-theoretic sentiments because they believe their favourite token is undercollateralized. Teenagers do not 'grind' for tens of hours at a time for whitelist mints of the hottest NFT projects because they assume the project will rug pull.\
 \
 Yet, time after time after time, investors are left out in the cold, bewildered by the shortcomings of the projects they were once so keen to advertise to their peers.
 
