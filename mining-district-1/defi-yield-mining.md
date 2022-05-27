@@ -6,7 +6,7 @@ coverY: 0
 
 # DeFi Yield Mining
 
-Similarly to all strong communities in DeFi, District Mining strives to be much more than a casual observer of the space. We seek to lead by example, by contributing our own smart contracts designed for fun and profit.
+Like all strong communities in DeFi, District Mining strives to be much more than a casual observer of the space. We seek to lead by example, by contributing our own smart contracts designed for fun and profit.
 
 ## Esme DeWalt
 

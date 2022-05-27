@@ -6,27 +6,27 @@ coverY: 0
 
 # Community&#x20;
 
-## Our Vision
-
 {% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
+Mining District navigates euphoria as a collective, working together to mitigate the upside and downside risks of each investment opportunity. It is for this reason that we successfully scaled out of our long-term positions during the peak mania phase of the previous crypto bull run. Since then we have been managing smaller positions carefully while preparing for the next cycle.
 {% endhint %}
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+![GG](https://imgflip.com/s/meme/Epic-Handshake.jpg)
 
-## Our Values
+### PVP
 
-{% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
-{% endhint %}
+Towards the end of every market cycle, the gloves come off. When the inflow of capital from speculative retail scales back, the true faces of investors and their revered projects are unmasked. \
+\
+This often manifests as delusion: while Bitcoin is bleeding against the dollar and altcoins are bleeding against Bitcoin, those that have not yet come to terms with the macro downtrend remain assured that the current price action is only temporary. Even worse, they take to Twitter to have you believe it too. Delusion en masse produces a player-versus-player environment, where undisciplined investors -- surrounded by conflicting market sentiment -- bleed capital due to poor decision making. \
+\
+The macro downtrend also leads to the collapse of many crypto projects, whose temporary bouncy-castle-like residencies were inflated only by the upward momentum of recycled bullish energy. In the short term, the failure of such projects is a pain point for many investors. However, long term, their demise is a necessary cleansing of the growing asset class. \
+\
+**Many experienced investors revel in player-versus-player market environments. Why do you think that is?**
 
-### Be Compassionate
+### PsVE
 
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
+A strategy for success in bullish and bearish markets alike is a players-versus-environment mindset. Accepting the crypto space for what it truly is at present, i.e., highly speculative, naturally leads to this style of community-based thinking, especially for newcomers.&#x20;
 
-### Be Mindful
-
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
+##
 
 ### Research First
 
